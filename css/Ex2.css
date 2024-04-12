@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Holtwood+One+SC&family=Honk&family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    background-image: url("../img/stretet2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+nav{
+    text-align: right;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 17px;
+    }
+
+h1{
+    font-family: "Holtwood One SC", serif;
+    text-align: center;
+    font-size: 300%;
+    color: rgb(7, 116, 211);
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Creepster&family=Holtwood+One+SC&family=Honk&family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    background-image: url("../img/mortal2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+nav{
+    text-align: right;
+    font-family: "Creepster", system-ui;
+}
+
+a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    padding: 17px;
+    font-size: 100%;
+    }
+
+h1{
+    font-family: "Creepster", system-ui;
+    font-size: 400%;
+    color: rgb(235, 0, 0);
+    }

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+body{
+    background-color: black;
+}
+
+nav{
+    text-align: right;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 17px;
+}
+
+h1{
+    font-family: "Bungee Spice", sans-serif;
+    text-align: center;
+    border: dashed rgb(253, 143, 0);
+}
+
+p{
+    color: aliceblue;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+#imagens{
+ display: flex;
+ justify-content: space-between;   
+}
+
+#imagens img{
+    max-width: 245px; max-height: 245px;
+    justify-content: center;
+}
+
+
+
